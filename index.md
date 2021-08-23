@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 极客陈的个人博客
 
 You can use the [editor on GitHub](https://github.com/RRGS666/RRGS666.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
